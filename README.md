@@ -5,5 +5,5 @@
  techlogies used--html, css, javascript
 
  you can visit this app through the following links--
- output--
- source code--
+ output--https://birthdate-lucky.vercel.app/
+ source code--https://github.com/kaxhish/birthdate-lucky
